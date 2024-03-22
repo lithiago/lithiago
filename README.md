@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img href="https://github-readme-git-186505-thiago-ramon-santos-de-jesus-projects.vercel.app//api?username=lithiago&hide=contribs,prs">
+  
+</div>
