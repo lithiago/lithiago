@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img href="https://github-readme-git-186505-thiago-ramon-santos-de-jesus-projects.vercel.app//api?username=lithiago&hide=contribs,prs">
+  <img href="https://github-readme-git-186505-thiago-ramon-santos-de-jesus-projects.vercel.app/api?username=lithiago&hide=contribs,prs">
   
 </div>
