@@ -9,3 +9,14 @@
 <div align= "center">
   <img src="https://64.media.tumblr.com/1755ce1f6727197408b69b09eafd6613/579ecde7e88252f5-a9/s540x810/560306b6d9dc076f2715d4c61b8c1a8789d76b6a.gifv">
 </div>
+
+## 🕸️ Sobre mim
+  Hoje estou no terceiro semestre de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS). Tenho grande interesse na área visão computacional.
+## Meus interesses
+  - Assisto e jogo basquete. **LEBRON’S THE GOAT**
+  - Gosto de jogos
+  - Apaixonado por _The Big Bang Theory_ e o *Homem Aranha*
+
+<div align= "center">
+  <img src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s500x750/666b263ea221aeabf9f38a168f50514ffa04c14c.gifv">
+</div>
