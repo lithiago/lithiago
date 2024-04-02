@@ -11,7 +11,7 @@
 </div>
 
 ## 🕸️ Sobre mim
-  Hoje estou no terceiro semestre de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS). Tenho grande interesse na área visão computacional.
+  Hoje estou no terceiro semestre de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS). Tenho grande interesse na área de IA.
 ## Meus interesses
   - Assisto e jogo basquete. **LEBRON’S THE GOAT**
   - Gosto de jogos
